@@ -6,9 +6,9 @@ An open-source, self-hosted WhatsApp messaging campaign manager that empowers bu
 
 # Products
 
-- [WapiKit](https://github.com/sarthakjdev/wapikit) - Core Product
-- [Wapi.js](https://github.com/sarthakjdev/wapi.js) - Javascript SDK over whatsapp APIs
-- [Wapi.go](https://github.com/sarthakjdev/wapi.go) - Golang SDK over whatsapp APIs
+- [WapiKit](https://github.com/wapikit/wapikit) - Core Product
+- [Wapi.js](https://github.com/wapikit/wapi.js) - Javascript SDK over whatsapp APIs
+- [Wapi.go](https://github.com/wapikit/wapi.go) - Golang SDK over whatsapp APIs
  
 Check about us [here](https://wapikit.com/) | Find us on [LinkedIn](https://www.linkedin.com/company/wapikit/)
 
