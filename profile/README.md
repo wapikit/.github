@@ -1,19 +1,42 @@
 # WapiKit
 
-WapiKit is an open-source ecosytem to make whatsapp marketing accessible. 
-
-An open-source, self-hosted WhatsApp messaging campaign manager that empowers businesses to manage customer engagement and marketing on their own infrastructure, with full data privacy. It offers a live team inbox, AI-powered auto-replies, and integrations with platforms like WordPress, Slack, Discord, and OpenAI, transforming WhatsApp into a comprehensive marketing and transaction channel.
+WapiKit is an ecosytem to make whatsapp marketing and customer engagement accessible for businesses.
 
 # Products
 
-- [WapiKit](https://github.com/wapikit/wapikit) - Core Product
-- [Wapi.js](https://github.com/wapikit/wapi.js) - Javascript SDK over whatsapp APIs
-- [Wapi.go](https://github.com/wapikit/wapi.go) - Golang SDK over whatsapp APIs
+## [WapiKit](https://app.wapikit.com) - Core Product
+
+Wapikit is an AI Automated comprehensive platform designed to simplify WhatsApp communications for businesses.
+
+It acts as a central hub where companies can manage all their WhatsApp messaging, from receiving messages to sending various types of messages to individual contact and to broadcast them on scale to millions.
+
+Key features include:
+
+- Inbuilt AI Agent: Your own marketing person who takes the overhead of most human intensive repetitive tasks.
+
+- Shared Team Inbox: A live, centralized inbox that lets your team view and respond to customer messages in real time.
+
+- Multi-Message Support: Support for different message types such as text, images, videos, documents, stickers, interactive messages (with buttons), templates, reactions.
+
+- Seamless WhatsApp Integration: Built over the WhatsApp Business APIs, Wapikit handles incoming webhooks and outbound messaging reliably.
+
+Wapikit is your go-to solution for integrating and managing WhatsApp messaging in a streamlined, scalable, and efficient way.
+
+![Dashboard view](../home.png)
+
+Watch the Demo Video [here](https://www.youtube.com/watch?v=wcUCGuGe2LY)
+ 
+## [Wapi.js](https://github.com/wapikit/wapi.js) - Javascript SDK over whatsapp APIs
+
+[NPM](https://www.npmjs.com/package/@wapijs/wapi.js) | [Documentation](https://js.wapikit.com)
+
+## [Wapi.go](https://github.com/wapikit/wapi.go) - Golang SDK over whatsapp APIs
+
+[Go Pakcage](https://pkg.go.dev/github.com/wapikit/wapi.go) | [Documentation](https://go.wapikit.com)
+
+<hr />
  
 Check about us [here](https://wapikit.com/) | Find us on [LinkedIn](https://www.linkedin.com/company/wapikit/)
-
-Apart from our clients, we build open-source projects and we give a major focus to building our own digital products.
-
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/wapikit?style=for-the-badge&logo=X&logoColor=white)
  [![](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wapikit/)
