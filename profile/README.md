@@ -38,11 +38,10 @@ Watch the Demo Video [here](https://www.youtube.com/watch?v=hiRfO6c8GdI)
  
 Check about us [here](https://wapikit.com/) | Find us on [LinkedIn](https://www.linkedin.com/company/wapikit/)
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/wapikit?style=for-the-badge&logo=X&logoColor=white)
- [![](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wapikit/)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/wapikit?style=for-the-badge&logo=X&logoColor=white)](https://x.com/wapikit)
 
 ## Contact
 
 For any queries, please reach out at our whatsApp [@wapikit](https://wa.me/918368670749?text=Reaching%20out%20from%20Wapikit%20Github%20Organization)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/wapikit.svg?style=social)](https://twitter.com/wapikit)
+[![Twitter Follow](https://img.shields.io/twitter/follow/wapikit.svg?style=social)](https://x.com/wapikit)
