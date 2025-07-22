@@ -24,7 +24,7 @@ Wapikit is your go-to solution for integrating and managing WhatsApp messaging i
 
 ![Dashboard view](../home.png)
 
-Watch the Demo Video [here](https://www.youtube.com/watch?v=wcUCGuGe2LY)
+Watch the Demo Video [here](https://www.youtube.com/watch?v=hiRfO6c8GdI)
  
 ## [Wapi.js](https://github.com/wapikit/wapi.js) - Javascript SDK over whatsapp APIs
 
@@ -43,6 +43,6 @@ Check about us [here](https://wapikit.com/) | Find us on [LinkedIn](https://www.
 
 ## Contact
 
-For any queries, please reach out at our whatsApp [@wapikit]([https://join.slack.com/t/wapikit/shared_invite/zt-2kl7eg29s-4DfP9lFwojQg_yCcyW_w6Q](https://wa.me/918368670749?text=Reaching%20out%20from%20Wapikit%20Github%20Organization))
+For any queries, please reach out at our whatsApp [@wapikit](https://wa.me/918368670749?text=Reaching%20out%20from%20Wapikit%20Github%20Organization)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/wapikit.svg?style=social)](https://twitter.com/wapikit)
