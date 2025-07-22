@@ -22,7 +22,7 @@ Key features include:
 
 Wapikit is your go-to solution for integrating and managing WhatsApp messaging in a streamlined, scalable, and efficient way.
 
-![Dashboard view](../home.png)
+![Dashboard view](../dashboard.png)
 
 Watch the Demo Video [here](https://www.youtube.com/watch?v=hiRfO6c8GdI)
  
