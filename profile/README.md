@@ -1,10 +1,10 @@
-# WapiKit
+# Wapikit
 
-WapiKit is an ecosytem to make whatsapp marketing and customer engagement accessible for businesses.
+Wapikit is an ecosytem to make whatsapp marketing and customer engagement accessible for businesses.
 
 # Products
 
-## [WapiKit](https://app.wapikit.com) - Core Product
+## [Wapikit](https://app.wapikit.com) - Core Product
 
 Wapikit is an AI Automated comprehensive platform designed to simplify WhatsApp communications for businesses.
 
@@ -43,6 +43,6 @@ Check about us [here](https://wapikit.com/) | Find us on [LinkedIn](https://www.
 
 ## Contact
 
-For any queries, please reach out at our Slack server [@wapikit](https://join.slack.com/t/wapikit/shared_invite/zt-2kl7eg29s-4DfP9lFwojQg_yCcyW_w6Q)
+For any queries, please reach out at our whatsApp [@wapikit]([https://join.slack.com/t/wapikit/shared_invite/zt-2kl7eg29s-4DfP9lFwojQg_yCcyW_w6Q](https://wa.me/918368670749?text=Reaching%20out%20from%20Wapikit%20Github%20Organization))
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/wapikit.svg?style=social)](https://twitter.com/wapikit)
